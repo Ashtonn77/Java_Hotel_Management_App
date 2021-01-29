@@ -39,7 +39,7 @@ public class Booking{
 		{
 			
 			String month = get_booking_month();
-			String year = get_booing_year();
+			String year = get_booking_year();
 			
 			String date = year + "-" + month;
 			
@@ -54,7 +54,7 @@ public class Booking{
 	}
 	
 	//booking year
-	private String get_booing_year() {
+	private String get_booking_year() {
 		
 		try 
 		{
